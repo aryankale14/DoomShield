@@ -55,7 +55,7 @@ Passive tools like Digital Wellbeing only show charts *after* you've already los
 ## Getting Started
 
 ### Download Ready-to-Install APK
-Grab the latest **`DoomShield-v2.0.apk`** directly from the [Releases](https://www.google.com/search?q=https://github.com/aryankale14/DoomShield/releases) page to install on any Android 8.0+ phone.
+Grab the latest **`DoomShield-v2.0.apk`** directly from the Releases page to install on any Android 8.0+ phone.
 
 ### Build from Source
 
